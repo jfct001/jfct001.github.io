@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Tao Chen / Personal Website"
 title_separator          : "-"
-name                     : &name "Tao Chen"
-description              : &description "Never Mind!"
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://jfct001.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jfct001/jfct001.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tao Chen"
   avatar           : "TaoChen.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "No.2 Sipai Low, Nanjing 210096, Jiangsu, China"
   location         : "Nanjing,Jiangsu,China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4Ty4Y_MAAAAJ&hl=en"
-  email            :
+  email            : "taoc@seu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jfct001"
   google_plus      :
   keybase          :
   instagram        :
