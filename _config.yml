@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tao Chen / Personal Website"
+title                    : "Tao Chen / My Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tao Chen"
   avatar           : "TaoChen.jpg"
-  bio              : "No.2 Sipai Low, Nanjing 210096, Jiangsu, China"
-  location         : "Nanjing,Jiangsu,China"
+  bio              : "From the earth."
+  location         : "No.2 Sipai Low, Nanjing 210096, Jiangsu, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4Ty4Y_MAAAAJ&hl=en"
