@@ -12,12 +12,20 @@ I am currently a Lecturer (Assistant Professor on Tenure-Track) in Power Economi
 
 
 
-Getting started
+#Here is my [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20200402.pdf).
+
+------
+
+# Call for Papers
+
+### ~~International Conference on Renewable Energy 2020~~
+
+#~~The International Conference on Renewable Energy (ICREN) 2020 will be held in Rome, Italy, on  25-27 Nov. 2020. The conference is now open for paper submission (deadline is 9 Sep. 2020). Please check the [website]( https://premc.org/conferences/icren-renewable-energy/ ) for detailed information.~~
+
+
+------
+
+News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **[2020-08-02]**  Our paper "An incentive-compatible distributed integrated energy market mechanism design with adaptive robust approach" was published by *Applied Energy*!
 
