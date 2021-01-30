@@ -14,18 +14,11 @@ I am currently a Lecturer (Assistant Professor on Tenure-Track) in Power Economi
 
 #Here is my [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20200402.pdf).
 
-------
-
-# Call for Papers
-
-### ~~International Conference on Renewable Energy 2020~~
-
-#~~The International Conference on Renewable Energy (ICREN) 2020 will be held in Rome, Italy, on  25-27 Nov. 2020. The conference is now open for paper submission (deadline is 9 Sep. 2020). Please check the [website]( https://premc.org/conferences/icren-renewable-energy/ ) for detailed information.~~
-
 
 ------
 
 News
 ======
-- **[2020-08-02]**  Our paper "An incentive-compatible distributed integrated energy market mechanism design with adaptive robust approach" was published by *Applied Energy*!
+- **[2021-01-19]**  I was awarded 2020 Top 5 Reviewers for the *IEEE Transactions on Smart Grid*.
+- **[2021-01-02]**  Our paper "An incentive-compatible distributed integrated energy market mechanism design with adaptive robust approach" was published by *Applied Energy*.
 
