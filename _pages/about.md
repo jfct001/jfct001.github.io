@@ -12,9 +12,6 @@ I am currently a Lecturer (Assistant Professor on Tenure-Track) in Power Economi
 
 
 
-#Here is my [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20200402.pdf).
-
-
 ------
 
 News
