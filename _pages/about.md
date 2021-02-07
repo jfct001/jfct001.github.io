@@ -12,11 +12,11 @@ I am currently a Lecturer (Assistant Professor on Tenure-Track) in Power Economi
 
 ------
 Please check out my research and publications in [Google Scholar](https://scholar.google.com/citations?user=4Ty4Y_MAAAAJ&hl=en)
-------
+
 
 Recent research topics
 ======
-- Reinforcement learning-based control strategies for virtual power plant/integrated energy system/transactive energy
+- Reinforcement learning-based control strategies for various energy systems
 - Transmission planning in market environment with co-simulation framework
 - Demand side resources and energy storage system for renewable energy adoption
 
