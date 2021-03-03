@@ -23,6 +23,8 @@ Recent research topics
 
 News
 ======
+- **[2021-03-03]**  Our team will co-organize a CELCEP Workshop with our project partners, University of Cambridge and Baringa Partners (UK Top 3 energy consulting company). [CELCEP Programme] (https://www.celcep.com/about-us/programme-intro)
+- **[2021-02-25]**  Our paper "Guo, and Shuai Han. "Planning strategies of power to gas based on cooperative game and symbiosis cooperation" was published by *Applied Energy*.
 - **[2021-01-19]**  I was awarded 2020 Top 5 Reviewers for the *IEEE Transactions on Smart Grid*.
 - **[2021-01-02]**  Our paper "An incentive-compatible distributed integrated energy market mechanism design with adaptive robust approach" was published by *Applied Energy*.
 
