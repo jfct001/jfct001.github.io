@@ -12,7 +12,7 @@ I am currently a Lecturer (Assistant Professor on Tenure-Track) in Power Economi
 
 ------
 Please check out my research and publications in [Google Scholar](https://scholar.google.com/citations?user=4Ty4Y_MAAAAJ&hl=en)
-Our team will co-organize a CELCEP Workshop with our project partners, University of Cambridge and Baringa Partners (UK Top 3 energy consulting company). [CELCEP Programme](https://www.celcep.com/about-us/programme-intro)
+
 
 Recent research topics
 ======
@@ -24,7 +24,7 @@ Recent research topics
 News
 ======
 - **[2021-03-20]** Our paper "Optimal Demand Response Strategy of Commercial Building-based Virtual Power Plant using Reinforcement Learning" was accepted by *IET Generation, Transmission & Distribution*.
-- **[2021-03-03]**  Our team will co-organize a CELCEP Workshop with our project partners, University of Cambridge and Baringa Partners (UK Top 3 energy consulting company). [CELCEP Programme](https://www.celcep.com/about-us/programme-intro)
+- **[2021-03-03]**  Our team will co-organize a [CELCEP Programme](https://www.celcep.com/about-us/programme-intro) Workshop with the project partners, University of Cambridge and Baringa Partners (UK Top 3 energy consulting company). 
 - **[2021-02-25]**  Our paper "Planning strategies of power to gas based on cooperative game and symbiosis cooperation" was published by *Applied Energy*.
 - **[2021-01-19]**  I was awarded 2020 Top 5 Reviewers for the *IEEE Transactions on Smart Grid*.
 - **[2021-01-02]**  Our paper "An incentive-compatible distributed integrated energy market mechanism design with adaptive robust approach" was published by *Applied Energy*.
