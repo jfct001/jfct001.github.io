@@ -12,7 +12,7 @@ I am currently a Lecturer (Assistant Professor on Tenure-Track) in Power Economi
 
 ------
 Please check out my research and publications in [Google Scholar](https://scholar.google.com/citations?user=4Ty4Y_MAAAAJ&hl=en)
-
+Our team will co-organize a CELCEP Workshop with our project partners, University of Cambridge and Baringa Partners (UK Top 3 energy consulting company). [CELCEP Programme] (https://www.celcep.com/about-us/programme-intro)
 
 Recent research topics
 ======
