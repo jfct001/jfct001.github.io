@@ -23,7 +23,8 @@ Recent research topics
 
 News
 ======
-- **[2021-03-20]** Our paper "Optimal Demand Response Strategy of Commercial Building-based Virtual Power Plant using Reinforcement Learning" was accepted by *IET Generation, Transmission & Distribution*.
+- **[2021-04-06]** Our paper "Distributed electric energy trading model and strategy analysis based on prospect theory”, was published by *International Journal of Electrical Power & Energy Systems*.
+- **[2021-03-20]** Our paper "Optimal Demand Response Strategy of Commercial Building-based Virtual Power Plant using Reinforcement Learning" was published by *IET Generation, Transmission & Distribution*.
 - **[2021-03-03]**  Our team will co-organize a [CELCEP Programme](https://www.celcep.com/about-us/programme-intro) Workshop with the project partners, University of Cambridge and Baringa Partners (UK Top 3 energy consulting company). 
 - **[2021-02-25]**  Our paper "Planning strategies of power to gas based on cooperative game and symbiosis cooperation" was published by *Applied Energy*.
 - **[2021-01-19]**  I was awarded 2020 Top 5 Reviewers for the *IEEE Transactions on Smart Grid*.
