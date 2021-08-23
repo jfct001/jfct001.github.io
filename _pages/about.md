@@ -23,6 +23,7 @@ Recent research topics
 
 News
 ======
+- **[2021-08-20]** My project proposal *"Intelligent decision-making in Transactive Energy System based on Deep Reinforcement learning and Internet-of-things"* was funded by National Natural Science Foundation of China (NSFC). (I am working as PI)
 - **[2021-06-30]** My project proposal *"Novel Reinforcement learning and Internet-of-things based Local Transactive Energy System"* was funded by Jiangsu Provincial Natural Science Foundation. (I am working as PI with Prof. Ciwei Gao as Co-PI)
 - **[2021-04-25]** Our paper "Energy Pricing Mechanism Considering Energy Converter Devices as Components of Pan-Energy Transmission System”, was published by *IEEE Transactions on Smart Grid*.
 - **[2021-04-06]** Our paper "Distributed electric energy trading model and strategy analysis based on prospect theory”, was published by *International Journal of Electrical Power & Energy Systems*.
