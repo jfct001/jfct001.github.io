@@ -13,7 +13,7 @@ Projects (working as PI)
 ------
 
 ------
-### **Intelligent decision-making in Transactive Energy System based on Deep Reinforcement learning and Internet-of-things** *(January 2022 – December 2024), 240,000 CNY
+### **Intelligent decision-making in Transactive Energy System based on Deep Reinforcement learning and Internet-of-things** *(January 2022 – December 2024)*, 240,000 CNY
 - *Supported by National Natural Science Foundation of China (NSFC)*
 - - Modify the conventional reinforcement learning algorithms with bounding constraints
   - Study the transactive energy mechanism for electricity trading at distribution network
