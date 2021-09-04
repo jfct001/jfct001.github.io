@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Projects (working as PI)
+Selected Projects (working as PI)
 ------
 
 ------
