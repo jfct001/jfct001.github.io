@@ -23,6 +23,8 @@ Recent research topics
 
 News
 ======
+- **[2021-09-24]** Honored to host and invite Prof. Pierluigi Siano's presention titled "Energy Communities in Smart Grids: Scalability and Privacy Issues" in our *SEU Interntional Webinar Series of Power Engineering*.
+- **[2021-09-15]** Our paper "Battery electrode mass loading prognostics and data-driven analysis for lithium-ion battery-based energy storage system, was published by *Frontiers in Energy Research*.
 - **[2021-08-20]** My project proposal *"Intelligent decision-making in Transactive Energy System based on Deep Reinforcement learning and Internet-of-things"* was funded by National Natural Science Foundation of China (NSFC). (I am working as PI)
 - **[2021-06-30]** My project proposal *"Novel Reinforcement learning and Internet-of-things based Local Transactive Energy System"* was funded by Jiangsu Provincial Natural Science Foundation. (I am working as PI with Prof. Ciwei Gao as Co-PI)
 - **[2021-04-25]** Our paper "Energy Pricing Mechanism Considering Energy Converter Devices as Components of Pan-Energy Transmission System”, was published by *IEEE Transactions on Smart Grid*.
