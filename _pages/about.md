@@ -16,15 +16,16 @@ Please check out my research and publications in [Google Scholar](https://schola
 
 Recent research topics
 ======
-- Machine learning-based control strategies for various energy systems
-- Internet-of-things and co-simulation framework for learning problems in power systems
-- Demand side resources and energy storage system for renewable energy adoption
+- Machine learning-based control and data analytics for various energy systems
+- Internet-of-things, Blockchain and AI applications in demand side management and power systems
+- Electricity market, renewable energy adoption and low carbon energy system
 
 
 News
 ======
 - **[2021-11-30]** I am honored to co-editor a special issue ["Advances in Distributed Energy Resources Aggregation for the Low Carbon Future"](https://www.frontiersin.org/research-topics/28426/advances-in-distributed-energy-resources-aggregation-for-the-low-carbon-future) in *Frontiers in Energy Research*. You are welcome to submit!
 - **[2021-11-30]** Our paper "A generalized additive model-based data-driven solution for lithium-ion battery capacity prediction and local effects analysis", was published by *Transactions of the Institute of Measurement and Control*.
+- **[2021-11-20]** I am on board with ["Carbon Monitor"](https://carbonmonitor.org/) project and group, working with [Prof. Zhu Liu](https://scholar.harvard.edu/zhu) associated with Harvard University / Tsinghua University, on some topics relavent to low carbon energy data analytics and low carbon future.
 - **[2021-11-15]** Our paper "Operation Strategy of Central Air Conditioning Virtual Power Plant Based on Risk Measurement Method", was published by *Frontiers in Energy Research*.
 - **[2021-09-24]** Honored to host and invite Prof. Pierluigi Siano's presention titled "Energy Communities in Smart Grids: Scalability and Privacy Issues" in our *SEU Interntional Webinar Series of Power Engineering*.
 - **[2021-09-15]** Our paper "Battery electrode mass loading prognostics and data-driven analysis for lithium-ion battery-based energy storage system, was published by *Frontiers in Energy Research*.
