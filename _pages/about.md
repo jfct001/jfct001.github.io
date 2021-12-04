@@ -17,7 +17,7 @@ Please check out my research and publications in [Google Scholar](https://schola
 Recent research topics
 ======
 - Machine learning-based control and data analytics for various energy systems
-- Internet-of-things, Blockchain and AI applications in demand side management and power systems
+- IoT, Blockchain and AI applications in demand side management
 - Electricity market, renewable energy adoption and low carbon energy system
 
 
