@@ -23,6 +23,10 @@ Recent research topics
 
 News
 ======
+- **[2022-02-18]** I am honored to achieve the *Best Paper Award* in 2021 IEEE Sustainable Power and Energy Conference iSPEC.
+- **[2022-02-18]** Our paper "Medium and long-term electricity market trading strategy considering renewable portfolio standard in the transitional period of electricity market reform in Jiangsu, China", was published by *Energy Economics*.
+- **[2022-02-18]** Our paper "Data-Based Interpretable Modeling for Property Forecasting and Sensitivity Analysis of Li-ion Battery Electrode", was published by *Automotive Innovation*.
+- **[2022-02-18]** Our paper "Optimal control strategy for solid oxide fuel cell‐based hybrid energy system using deep reinforcement learning", was published by *IET Renewable Power Generation*.
 - **[2021-11-30]** I am honored to co-editor a special issue ["Advances in Distributed Energy Resources Aggregation for the Low Carbon Future"](https://www.frontiersin.org/research-topics/28426/advances-in-distributed-energy-resources-aggregation-for-the-low-carbon-future) in *Frontiers in Energy Research*. You are welcome to submit!
 - **[2021-11-30]** Our paper "A generalized additive model-based data-driven solution for lithium-ion battery capacity prediction and local effects analysis", was published by *Transactions of the Institute of Measurement and Control*.
 - **[2021-11-20]** I am on board with ["Carbon Monitor"](https://carbonmonitor.org/) project and group, working with [Prof. Zhu Liu](https://scholar.harvard.edu/zhu) associated with Harvard University / Tsinghua University, on some topics relavent to low carbon energy data analytics and low carbon future.
