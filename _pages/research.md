@@ -13,6 +13,14 @@ Selected Projects (working as PI)
 ------
 
 ------
+### **AIoT-based Transactive Energy Community** *(March 2022 – December 2023)*, 100,000 USD
+- *Supported by The State Key Laboratory of Internet of Things for Smart City, University of Macau*
+- - Study the Artificial Intelligence of Things (AIoT) for energy community
+  - Explore the P2P energy trading mechanism with local market
+  - Build the AIoT simulation platform to showcase the large-scale interaction dynamics
+  
+
+------
 ### **Intelligent decision-making in Transactive Energy System based on Deep Reinforcement learning and Internet-of-things** *(January 2022 – December 2024)*, 240,000 CNY
 - *Supported by National Natural Science Foundation of China (NSFC)*
 - - Modify the conventional reinforcement learning algorithms with bounding constraints
