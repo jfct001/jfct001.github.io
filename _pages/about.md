@@ -23,7 +23,7 @@ Recent research topics
 
 News
 ======
-- **[2022-03-12]** My project proposal collaborated with *University of Macau* about "AIoT-based Trasactive Energy Community" was funded by the Open Research Project Programme of ["The State Key Laboratory of Internet of Things for Smart City"](https://skliotsc.um.edu.mo/), University of Macau.
+- **[2022-03-12]** My project proposal collaborated with *University of Macau* about "AIoT-based Trasactive Energy Community" was funded by the Open Research Project Programme of [The State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/), University of Macau.
 - **[2022-02-23]** Our paper "An IGDT-based Day-ahead Co-optimization of Energy and Reserve in a VPP Considering Multiple Uncertainties", was published by *IEEE Transactions on Industry Applications*. 
 - **[2022-02-18]** I am honored to achieve the *Best Paper Award* in 2021 IEEE Sustainable Power and Energy Conference iSPEC.
 - **[2022-02-18]** Our paper "Medium and long-term electricity market trading strategy considering renewable portfolio standard in the transitional period of electricity market reform in Jiangsu, China", was published by *Energy Economics*.
