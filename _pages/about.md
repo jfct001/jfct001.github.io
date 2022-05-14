@@ -23,6 +23,12 @@ Recent research topics
 
 News
 ======
+- **[2022-05-14]** I am honored to co-editor a special issue ["Novel Electric Vehicle Technology towards Low Carbon Future: Advanced Powertrain, Energy Management and Grid Interaction"](https://www.mdpi.com/journal/wevj/special_issues/Novel_Electric_Vehicle_Technology) in *World Electric Vehicle Journal*. You are welcome to submit!
+- **[2022-05-14]** Our paper "Transactive energy in power distribution systems: Paving the path towards cyber-physical-social system", was published by *International Journal of Electrical Power & Energy Systems*.
+- **[2022-05-08]** Our paper "Applications of shared economy in smart grids: Shared energy storage and transactive energy", was published by *The Electricity Journal*.
+- **[2022-04-25]** I was invited as a panelist to present "AI-based Modeling and Control for Low Carbon Hybrid Energy System" in *2022 the 5th International Conference on Energy, Electrical and Power Engineering*.
+- **[2022-04-18]** Our paper "Data-based interpretable modeling for property forecasting and sensitivity analysis of Li-ion battery electrode", was published by *Automotive Innovation*.
+- **[2022-04-18]** Our paper "Coupon-Based Demand Response for Consumers Facing Flat-Rate Retail Pricing", was published by *CSEE Journal of Power and Energy Systems*.
 - **[2022-03-12]** My project proposal collaborated with *University of Macau* about "AIoT-based Trasactive Energy Community" was funded by the Open Research Project Programme of [The State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/), University of Macau.
 - **[2022-02-23]** Our paper "An IGDT-based Day-ahead Co-optimization of Energy and Reserve in a VPP Considering Multiple Uncertainties", was published by *IEEE Transactions on Industry Applications*. 
 - **[2022-02-18]** I am honored to achieve the *Best Paper Award* in 2021 IEEE Sustainable Power and Energy Conference iSPEC.
