@@ -23,6 +23,9 @@ Recent research topics
 
 News
 ======
+- **[2022-06-30]** Our paper "Intelligent energy management of low carbon hybrid energy system with solid oxide fuel cell and accurate battery model", was published by *IET Smart Grid*.
+- **[2022-05-28]** I am honored to achieve the *Best Paper Award* in IEEE 5th International Electrical and Energy Conference (CIEEC 2022).
+- **[2022-05-25]** I am honored to be *TPC member* in [International Conference on Power Science and Technology (ICPST 2023)](http://www.icpst.org/index.html) and welcome your submission!
 - **[2022-05-14]** I am honored to co-editor a special issue ["Novel Electric Vehicle Technology towards Low Carbon Future: Advanced Powertrain, Energy Management and Grid Interaction"](https://www.mdpi.com/journal/wevj/special_issues/Novel_Electric_Vehicle_Technology) in *World Electric Vehicle Journal*. You are welcome to submit!
 - **[2022-05-14]** Our paper "Transactive energy in power distribution systems: Paving the path towards cyber-physical-social system", was published by *International Journal of Electrical Power & Energy Systems*.
 - **[2022-05-08]** Our paper "Applications of shared economy in smart grids: Shared energy storage and transactive energy", was published by *The Electricity Journal*.
