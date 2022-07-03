@@ -27,7 +27,14 @@ Selected Projects (working as PI)
   - Study the transactive energy mechanism for electricity trading at distribution network
   - Build the Internet-of-things platform to simulate the multi-agent demonstration
 
+------
+### **Large-scale Demand Side Resources Operation for Power System Planning and Management** *(January 2021 – December 2022)*, 2,200,000 CNY
 
+- *Supported by State Grid Corporation of China - Zhejiang* 
+- *Collaboration partners: China Electric Power Research Institute*
+- - Propose methods to operate the large-scale demand side resources
+  - Design local P2P trading mechanism for user-side resources 
+  - Analyze the aggregation effect of large-scale demand response on power system operation 
 
 ------
 ### **Efficiency Analysis and Policy Recommendation of Jiangsu Power Market Design and Operation** *(June 2020 – November 2021)*, 250,000 GBP
@@ -46,6 +53,8 @@ Selected Projects (working as PI)
 - - Propose methods to facilitate renewable energy adoption with demand side resources
   - Design new market mechanism and business models for renewable energy transactions 
   - Propose control strategy and decision-making methods for energy storage system in market participation 
+  
+
 
 
 
