@@ -7,12 +7,14 @@ author_profile: true
 
 ## Teaching
 
-- 2020-present Fall/Spring: AI Applications in Power System (Graduate course, 32 course hours, 2 credits)
-- 2022-present Fall/Spring: Power Plant and Electric Facilities (undergraduate course, 32 course hours, 1.5 credits)
-- 2020-present Summer: Academic Information Searching and Writing (undergraduate course, 32 course hours, 1 credits)
+- Since 2020, Fall/Spring: AI Applications in Power System (Graduate, 32 course hours)
+- Since 2020, Fall: Fundamentals Of Power System Economics (Graduate, 32 course hours, artially responsible)
+- Since 2020, Spring: Power System Planning (Graduate, 32 course hours, partially responsible)
+- Since 2022, Fall/Spring: Power Plant and Electric Facilities (undergraduate, 32 course hours)
+- Since 2020, Summer: Academic Information Searching and Writing (undergraduate, 32 course hours)
 
 ## Supervising
 
 - 2022 Tianyun Xu, Yanfei Ling
-- 2021 UZAIR SHAKIR, USMAN HAIDER, MUHAMMAD ASAD BHATTI, HASEEB U DDIN AHMED (PhD), JAMSHER ALI (PhD), Qingjin Zhao (co-adivsor)
+- 2021 Uzair Shakir, Usman Haider, Muhammad Asad Bhatti, Haseeb U Ddin Ahmed (PhD), Jamsher Ali (PhD), Qingjin Zhao (co-adivsor)
 
