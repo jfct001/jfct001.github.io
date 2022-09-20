@@ -13,8 +13,8 @@ author_profile: true
 - Since 2020, Summer: Academic Information Searching and Writing (Undergraduate, 32 course hours)
 - Since 2022, Fall/Spring: Power Plant and Electric Facilities (Undergraduate, 32 course hours)
 
-## Supervising
+## Supervising MSc/PhD
 
-- 2022 Tianyun Xu, Yanfei Ling
+- 2022 Tianyun Xu, Yanfei Ling, Zeeshan Ashraf, Muhammad Mubashir Ashraf, Muhammad Arif Bashir, Vikram Kumar, Muhammad Saad Tahir (PhD), Muhammad Usman Sadiq
 - 2021 Uzair Shakir, Usman Haider, Muhammad Asad Bhatti, Haseeb U Ddin Ahmed (PhD), Jamsher Ali (PhD), Qingjin Zhao (co-adivsor)
 
