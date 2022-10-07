@@ -25,8 +25,8 @@ Recent research topics
 
 News
 ======
-- **[2022-09-14]** I am honored to leading-editor a special issue ["Next-generation Smart Grid with AI and Advanced Energy Infrastructure towards Low Carbon Future and Net-zero"](https://www.frontiersin.org/research-topics/43525/next-generation-smart-grid-with-ai-and-advanced-energy-infrastructure-towards-low-carbon-future-and) in *Frontiers In Smart Grids
-*. You are welcome to submit!
+- **[2022-10-05]** I am honored to lead editor a special issue ["Grid-interactive Green Buildings and Coordinated Energy Management Strategies Towards Net-Zero Future"](https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/17521424/Special%20Issues/IET_RPG_CFP_GIGBCEMSTNZF-1664490337770.pdf) in *IET Renewable Power Generation*. You are welcome to submit!
+- **[2022-09-14]** I am honored to lead editor a special issue ["Next-generation Smart Grid with AI and Advanced Energy Infrastructure towards Low Carbon Future and Net-zero"](https://www.frontiersin.org/research-topics/43525/next-generation-smart-grid-with-ai-and-advanced-energy-infrastructure-towards-low-carbon-future-and) in *Frontiers In Smart Grids*. You are welcome to submit!
 - **[2022-08-25]** Our paper "Collaborative load shifting effect of power-to-gas and gas-fired unit in integrated power and gas system", was published by *IET Renewable Power Generation*.
 - **[2022-06-30]** Our paper "Intelligent energy management of low carbon hybrid energy system with solid oxide fuel cell and accurate battery model", was published by *IET Smart Grid*.
 - **[2022-05-28]** I am honored to achieve the *Best Paper Award* in IEEE 5th International Electrical and Energy Conference (CIEEC 2022).
