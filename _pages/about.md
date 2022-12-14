@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an Assistant Professor (Tenure-Track) in Power Economics and Technology Research Institute (PETRI) and the group leader of Smart Grid and Electricity Market (SMART), School of Electrical Engineering, [Southeast University](https://www.seu.edu.cn/), China. I am also affiliated with [Tampere University](https://www.tuni.fi/en), Finland, working as an adjunct researcher. My research interests are about demand side management, demand response, electricity market and machine learning applications in power systems. Before joining in Southeast University, I worked as a Postdoctoral Associate with Prof. Saifur Rahman in [Advanced Research Institute (ARI)](https://ari.vt.edu/), Virginia Tech, Washington D.C., USA, 2018-2019. I also worked as an Intern Engineer in Global Energy Interconnection Research Institute North America (GEIRINA), California, USA, 2017-2018 and Project Researcher in Tampere University of Technology, Finland, 2013-2015. I received my BSc, MSc and PhD from Anhui University, China, 2008-2012, Tampere University of Technology, Finland, 2012-2015 and University of Michigan, USA, 2015-2018, respectively, all in Electrical Engineering. 
 
-I received the Best Paper Award for IEEE ISGT-Asia 2019, IEEE iSPEC 2021, IEEE CIEEC 2022 and the Best Reviewer Award for IEEE Transaction on Smart Grids 2020. I was a Guest Editor for Frontiers in Energy Research, Frontiers In Smart Grids and World Electric Vehicle Journal, has (co)authored more than 80 publications and PI for many R&D projects, including National Natural Science Foundation of China (NSFC), Natural Science Foundation of Jiangsu Province, and Science and Technology Project of the State Grid Corporation of China (SGCC). 
+I received the Best Paper Award for IEEE ISGT-Asia 2019, IEEE iSPEC 2021, IEEE CIEEC 2022 and the Best Reviewer Award for IEEE Transaction on Smart Grids 2020. I was a Lead Editor for IET Renwable Power Generation and Guest Editor for Frontiers in Energy Research, Frontiers In Smart Grids and World Electric Vehicle Journal, has (co)authored more than 80 publications and PI for many R&D projects, including National Natural Science Foundation of China (NSFC), Natural Science Foundation of Jiangsu Province, and Science and Technology Project of the State Grid Corporation of China (SGCC). 
 
 ------
 Please check out my research and publications in [Google Scholar](https://scholar.google.com/citations?user=4Ty4Y_MAAAAJ&hl=en)
@@ -25,6 +25,8 @@ Recent research topics
 
 News
 ======
+- **[2022-12-13]** Our paper "Efficiency Improvement of Decentralized Incentive-based Demand Response: Social Welfare Analysis and Market Mechanism Design" was published by *Applied Energy*.
+- **[2022-11-25]** I am honored to serve as *Session Chair* for [2022 IEEE 6th Conference on Energy Internet and Energy System Integration](https://attend.ieee.org/ei2-2022/) and welcome your submission!
 - **[2022-10-21]** I am honored and humble to be awarded as *SEU Talented Young Scholar* by Southeast University.
 - **[2022-10-21]** I am honored to guest editor a special issue ["Optimal Operation and Control of Smart
 Energy Systems"](https://onlinelibrary.wiley.com/pb-assets/assets/25778196/Special%20Issues/CFP-Optimal%20Operation%20and%20Control%20of%20Smart%20Energy%20Systems-1665988175970.pdf) in *Engineering Reports*. You are welcome to submit!

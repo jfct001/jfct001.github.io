@@ -13,6 +13,15 @@ Selected Projects (working as PI)
 ------
 
 ------
+### **Research on Key Technologies of Distributed Flexible Resource Aggregation and Optimization for EU Market Operation** *(January 2023 – December 2024)*, 6,500,000 CNY
+
+- *Supported by State Grid Corporation of China* 
+- *Collaboration partners: China Electric Power Research Institute, NESTER (Portugal)*
+- - Propose methods to aggregate distributed energy resources (DERs) with European Union market conditions
+  - Design hardware aggregation terminal for DERs interface with prediction functionality
+  - Simulate the market price-based operation for DERs in Hardware-in-the-loop environment
+
+------
 ### **AIoT-based Transactive Energy Community** *(March 2022 – December 2023)*, 100,000 USD
 - *Supported by The State Key Laboratory of Internet of Things for Smart City, University of Macau*
 - - Study the Artificial Intelligence of Things (AIoT) for energy community
