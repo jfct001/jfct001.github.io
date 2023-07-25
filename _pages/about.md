@@ -25,7 +25,10 @@ Recent research topics
 
 News
 ======
-- **[2022-04-26]** I am honored and humble to be awarded as *Outstanding Young Professionals* by IEEE PES China Chapter Council.
+- **[2023-07-05]** I am honored to serve as *Session Chair* for [2023 IEEE IAS Industrial and Commercial Power System Asia](http://ieee-icps.com/2023/index.html) and welcome your submission!
+- **[2023-06-15]** I am honored to co-editor a special issue ["Active Voltage and Frequency Support Control by the EV, New Energy and Energy Storages"](https://www.mdpi.com/journal/wevj/special_issues/9740A7Y475) in *World Electric Vehicle Journal*. You are welcome to submit!
+- **[2023-06-14]** I am honored to co-editor a special issue ["Fast-Charging Station for Electric Vehicles: Challenges and Issues"](https://www.mdpi.com/journal/wevj/special_issues/S4Z19EQ6Q5) in *World Electric Vehicle Journal*. You are welcome to submit!
+- **[2023-04-26]** I am honored and humble to be awarded as *Outstanding Young Professionals* by IEEE PES China Chapter Council.
 - **[2023-04-04]** Our paper "A Game-Theoretic Approach to Solve Competition between Multi-Type Electric Vehicle Charging and Parking Facilities", was published by *World Electric Vehicle Journal*.
 - **[2023-04-04]** Our paper "A Review on Digital Twin Technology in Smart Grid, Transportation System and Smart City: Challenges and Future", was published by *IEEE Access*.
 - **[2023-01-19]** I am honored to guest editor a special issue ["Design and Control of Smart Renewable Energy Systems"](https://www.mdpi.com/journal/electronics/special_issues/636B65T2QF) in *Electronics*. You are welcome to submit!
