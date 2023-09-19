@@ -25,6 +25,7 @@ Recent research topics
 
 News
 ======
+- **[2022-08-25]** I am honored to be *TPC member* in [International Conference on Power Science and Technology (ICPST 2024)](http://www.icpst.org/index.html) and welcome your submission!
 - **[2023-07-05]** I am honored to serve as *Session Chair* for [2023 IEEE IAS Industrial and Commercial Power System Asia](http://ieee-icps.com/2023/index.html) and welcome your submission!
 - **[2023-06-15]** I am honored to co-editor a special issue ["Active Voltage and Frequency Support Control by the EV, New Energy and Energy Storages"](https://www.mdpi.com/journal/wevj/special_issues/9740A7Y475) in *World Electric Vehicle Journal*. You are welcome to submit!
 - **[2023-06-14]** I am honored to co-editor a special issue ["Fast-Charging Station for Electric Vehicles: Challenges and Issues"](https://www.mdpi.com/journal/wevj/special_issues/S4Z19EQ6Q5) in *World Electric Vehicle Journal*. You are welcome to submit!

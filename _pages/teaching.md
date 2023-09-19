@@ -15,7 +15,7 @@ author_profile: true
 
 ## Supervising MSc/PhD
 
-- 2023 Mengchen Zhu, Guanyuan Chen, Zhou Zhou (co-adivsor)
+- 2023 Mengchen Zhu, Guanyuan Chen, Zhou Zhou (co-adivsor), Yifan Wu (co-adivsor), Khalilullah, Md Sohel Rana, Irfan Ali, Muhammad Saad Zafar, Anees Ahmad, Muhammad Akhtar Nawaz (PhD), Muhammad Ahsan Niazi (PhD)
 - 2022 Tianyun Xu, Yanfei Ling, Zeeshan Ashraf, Muhammad Mubashir Ashraf, Muhammad Arif Bashir, Vikram Kumar, Muhammad Saad Tahir (PhD), Muhammad Usman Sadiq
 - 2021 Uzair Shakir, Usman Haider, Muhammad Asad Bhatti, Haseeb U Ddin Ahmed (PhD), Jamsher Ali (PhD), Qingjin Zhao (co-adivsor)
 
