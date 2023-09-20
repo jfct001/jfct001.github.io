@@ -7,11 +7,13 @@ author_profile: true
 
 ## Teaching
 
+- Since 2023, Fall: Power System Planning (Graduate, 32 course hours, Southeast University - Monash University Joint Graduate School (Suzhou))
+- Since 2022, Fall/Spring: Power Plant and Electric Facilities (Undergraduate, 32 course hours)
 - Since 2020, Fall/Spring: AI Applications in Power System (Graduate, 32 course hours)
 - Since 2020, Fall: Fundamentals Of Power System Economics (Graduate, 32 course hours, partially responsible)
 - Since 2020, Spring: Power System Planning (Graduate, 32 course hours, partially responsible)
 - Since 2020, Summer: Academic Information Searching and Writing (Undergraduate, 32 course hours)
-- Since 2022, Fall/Spring: Power Plant and Electric Facilities (Undergraduate, 32 course hours)
+
 
 ## Supervising MSc/PhD
 
