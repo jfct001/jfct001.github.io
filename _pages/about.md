@@ -25,8 +25,10 @@ Recent research topics
 
 News
 ======
-- **[2022-09-20]** I am thrilled to be promoted as *Associate Professor* in School of Electrical Engineering, Southeast University. Thanks for all my colleagues and collabrators.
-- **[2022-08-25]** I am honored to be *TPC member* in [International Conference on Power Science and Technology (ICPST 2024)](http://www.icpst.org/index.html) and welcome your submission!
+- **[2023-11-01]** I am honored to be invited for a talk presentation titled *Learning-assisted Transactive Decision-making for Demand Side Resources* in [The 3rd Macao Conference on Smart City Technologies 2023](https://mcsct.skliotsc.um.edu.mo/).
+- **[2023-10-24]** Our paper "Intelligent Home Energy Management Strategy With Internal Pricing Mechanism Based on Multiagent Artificial Intelligence-of-Things", was published by *IEEE Systems Journal*.
+- **[2023-09-20]** I am thrilled to be promoted as *Associate Professor* in School of Electrical Engineering, Southeast University. Thanks for all my colleagues and collabrators.
+- **[2023-08-25]** I am honored to be *TPC member* in [International Conference on Power Science and Technology (ICPST 2024)](http://www.icpst.org/index.html) and welcome your submission!
 - **[2023-07-05]** I am honored to serve as *Session Chair* for [2023 IEEE IAS Industrial and Commercial Power System Asia](http://ieee-icps.com/2023/index.html) and welcome your submission!
 - **[2023-06-15]** I am honored to co-editor a special issue ["Active Voltage and Frequency Support Control by the EV, New Energy and Energy Storages"](https://www.mdpi.com/journal/wevj/special_issues/9740A7Y475) in *World Electric Vehicle Journal*. You are welcome to submit!
 - **[2023-06-14]** I am honored to co-editor a special issue ["Fast-Charging Station for Electric Vehicles: Challenges and Issues"](https://www.mdpi.com/journal/wevj/special_issues/S4Z19EQ6Q5) in *World Electric Vehicle Journal*. You are welcome to submit!
