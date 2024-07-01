@@ -25,6 +25,9 @@ Recent research topics
 
 News
 ======
+- **[2024-07-01]** I am honored to be invited for a Keynote presentation titled *Learning-assisted Management and Pricing Methods for Demand Side Resources and Energy Critical Infrastructure* in [AI for Critical Infrastructure @ IJCAI-24](https://sites.google.com/view/aiforci-ijcai24/home/program).
+- **[2024-05-21]** Our paper "Battery calendar degradation trajectory prediction: Data-driven implementation and knowledge inspiration", was published by *Energy*.
+- **[2023-12-22]** I am honored and humble to be awarded as *Young Elite Scientists Sponsorship Program* by Jiangsu Association for Science and Technology.
 - **[2023-11-01]** I am honored to be invited for a talk presentation titled *Learning-assisted Transactive Decision-making for Demand Side Resources* in [The 3rd Macao Conference on Smart City Technologies 2023](https://mcsct.skliotsc.um.edu.mo/).
 - **[2023-10-24]** Our paper "Intelligent Home Energy Management Strategy With Internal Pricing Mechanism Based on Multiagent Artificial Intelligence-of-Things", was published by *IEEE Systems Journal*.
 - **[2023-09-20]** I am thrilled to be promoted as *Associate Professor* in School of Electrical Engineering, Southeast University. Thanks for all my colleagues and collabrators.
