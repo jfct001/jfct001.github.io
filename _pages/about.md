@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Associate Professor in Power Economics and Technology Research Institute (PETRI) and the group leader of Smart Grid and Electricity Market (SMART), School of Electrical Engineering, [Southeast University](https://www.seu.edu.cn/), China. I am also affiliated with [Tampere University](https://www.tuni.fi/en), Finland, working as an adjunct researcher. My research interests are about demand side management, demand response, electricity market and machine learning applications in power systems. Before joining in Southeast University, I worked as a Postdoctoral Associate with Prof. Saifur Rahman in [Advanced Research Institute (ARI)](https://ari.vt.edu/), Virginia Tech, Washington D.C., USA, 2018-2019. I also worked as an Intern Engineer in Global Energy Interconnection Research Institute North America (GEIRINA), California, USA, 2017-2018 and Project Researcher in Tampere University of Technology, Finland, 2013-2015. I received my BSc, MSc and PhD from Anhui University, China, 2008-2012, Tampere University of Technology, Finland, 2012-2015 and University of Michigan, USA, 2015-2018, respectively, all in Electrical Engineering. 
+I am currently an Associate Professor in Power Economics and Technology Research Institute (PETRI) and the group leader of Smart Grid and Electricity Market (SMART), School of Electrical Engineering, [Southeast University](https://www.seu.edu.cn/), China. I am also a director board member of Hainan Jinpan Smart Technology Co., Ltd. My research interests are about demand side management, electricity market and AI applications in power systems. Before joining in Southeast University, I worked as a Postdoctoral Associate with Prof. Saifur Rahman in [Advanced Research Institute (ARI)](https://ari.vt.edu/), Virginia Tech, Washington D.C., USA, 2018-2019. I also worked as an Intern Engineer in Global Energy Interconnection Research Institute North America (GEIRINA), California, USA, 2017-2018 and Project Researcher in Tampere University of Technology, Finland, 2013-2015. I received my BSc, MSc and PhD from Anhui University, China, 2008-2012, Tampere University of Technology, Finland, 2012-2015 and University of Michigan, USA, 2015-2018, respectively, all in Electrical Engineering. 
 
-I received the Best Paper Award for IEEE ISGT-Asia 2019, IEEE iSPEC 2021, IEEE CIEEC 2022 and the Best Reviewer Award for IEEE Transaction on Smart Grids 2020. I was a Lead Editor for IET Renwable Power Generation and Guest Editor for Engineering Reports, Frontiers in Energy Research, Frontiers In Smart Grids, World Electric Vehicle Journal, Electronics and MDPI Journal Joint Topics. I have (co)authored more than 100 publications and PI for 10+ R&D projects, including Portugal NESTER Joint Project, National Natural Science Foundation of China (NSFC), Natural Science Foundation of Jiangsu Province, and Science and Technology Project of the State Grid Corporation of China (SGCC). 
+I received Geneva Invention Gold Medal 2025, IEEE PES Outstanding Young Professionals Award 2023, the Best Paper Award for IEEE ISGT-Asia 2019, IEEE iSPEC 2021 and IEEE CIEEC 2022 and the Best Reviewer Award for IEEE Transaction on Smart Grids 2020. I was a Lead Editor for IET Renwable Power Generation Special Issue and many others. I have (co)authored more than 100 publications and PI/co-PI for 50+ R&D projects with more than 8,000,000.00 CNY project funding, including Portugal NESTER Joint Project, UK Prosperity Fund Programme, National Key R&D Program of China, National Natural Science Foundation of China (NSFC), Natural Science Foundation of Jiangsu Province, and Science and Technology Project of the State Grid Corporation of China (SGCC). 
 
 ------
 Please check out my research and publications in [Google Scholar](https://scholar.google.com/citations?user=4Ty4Y_MAAAAJ&hl=en)
@@ -18,13 +18,17 @@ Please check out my research and publications in [Google Scholar](https://schola
 
 Recent research topics
 ======
-- Machine learning-based control and data analytics for various energy systems
-- AI and IoT applications in demand side management
-- Electricity market, renewable energy adoption and low carbon energy system
+- Machine learning-based control and data analytics for energy systems
+- AI and IoT applications in demand side management and Data Center
+- Electricity market, Virtual Power Plant and Networked Microgrid
 
 
 News
 ======
+- **[2026-03-25]** I am honored to be *Industry Chair* in [2026 the 9th International Conference on Energy, Electrical and Power Engineering](https://www.ceepe.net/) and welcome your submission!
+- **[2026-03-21]** I am honored to be invited for a talk presentation titled *Leverage Distributed Resources Flexibility for Virtual Power Plant Operation and System Resilience* in [2026 5th International Conference on Smart Grid and Green Energy](https://icsgge.org/).
+- **[2025-12-13]** Our paper "Dynamic adjustment method for the configuration of distributed energy resources in virtual power plants", was published by *International Journal of Electrical Power and Energy Systems*.
+- **[2025-08-10]** Our paper "Kolmogorov-Arnold Network Based Impedance Identification of Power Electronic Systems with Grid Following and Grid Forming Control", was published by *IEEE Transactions on Power Electronics*.
 - **[2025-03-11]** I am honored to guest editor a special issue ["Enhancing Flexibility and Security in Net-Zero Integrated Energy Systems Through Emerging Technologies"](https://www.mdpi.com/journal/electricity/special_issues/1R828TOH79) in *Electricity*. You are welcome to submit!
 - **[2025-03-10]** Our paper "Capacity configuration of hybrid energy storage system for ocean renewables", was published by *Journal of Energy Storage*.
 - **[2025-03-05]** Our paper "External Vulnerability Assessment of Power System under Attack Based on Attack-Defense Game", was published by *IEEE Transactions on Power Systems*.
